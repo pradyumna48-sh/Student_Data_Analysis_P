@@ -1,0 +1,9 @@
+STUDENT DATA ANALYSIS REPORT
+===================================
+
+Total Students : 1000
+Average Marks : 69.99
+Highest Marks : 99.9
+Lowest Marks : 40.0
+Average Attendance : 75.12
+Average Study Hours : 5.41
